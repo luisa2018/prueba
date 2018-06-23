@@ -1,0 +1,14 @@
+/* equivalente a red */
+p:nth-child(1) {
+  background-color: #ff0000;
+}
+
+/* equivalente azul */
+p:nth-child(2) {
+  background-color: #0000ff;
+}
+
+/* No tiene un color exacto equivalente */
+p:nth-child(3) {
+  background-color: #e0b0ff;
+}
